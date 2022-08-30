@@ -22,3 +22,19 @@
     font-family: 'Honeymoon';
     src: url('../assets/fonts/honeymoon.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'NanumGothic';
+    src: url('../assets/fonts/NanumGothic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'NanumGothic-b';
+    src: url('../assets/fonts/NanumGothicBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'NanumGothic-e';
+    src: url('../assets/fonts/NanumGothicExtraBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'NanumGothic-l';
+    src: url('../assets/fonts/NanumGothicLight.ttf') format('truetype');
+}

@@ -20,13 +20,13 @@
 <style>
   .greeting_open {
       text-align:center;
-      font-size: 200%;
+      font-size: 250%;
       font-family: 'EngWedding';
       color: black;
     }
   .greeting_text {
       text-align:center;
-      font-size: 150%;
+      font-size: 200%;
       font-family: 'Honeymoon';
       color: black;
     }
