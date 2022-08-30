@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'NanumMyeongjo';
+    src: url('../assets/fonts/NanumMyeongjo.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'NanumMyeongjo-e';
+    src: url('../assets/fonts/NanumMyeongjoExtraBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'NanumMyeongjo-b';
+    src: url('../assets/fonts/NanumMyeongjoBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'EngWedding';
+    src: url('../assets/fonts/EngWedding.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Dahang';
+    src: url('../assets/fonts/dahang.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Honeymoon';
+    src: url('../assets/fonts/honeymoon.ttf') format('truetype');
+}
